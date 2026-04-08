@@ -7,9 +7,9 @@
       "theme": "orange",
       "description": "Ôn tập kiến thức Lịch Sử.",
       "links": [
-        { "label": "Chủ đề 1: Lịch sử thế giới", "url": "https://quizizz.com/..." },
-        { "label": "Chủ đề 3: Lịch sử Việt Nam", "url": "https://quizizz.com/..." },
-        { "label": "Trắc nghiệm Đúng/Sai", "url": "https://quizizz.com/..." }
+        { "label": "CĐ 1,2", "url": "https://quizizz.com/..." },
+        { "label": "CĐ 3", "url": "https://quizizz.com/..." },
+        { "label": "Đúng/Sai", "url": "https://quizizz.com/..." }
       ]
     }
   ]
