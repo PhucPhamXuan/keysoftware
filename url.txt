@@ -1,8 +1,14 @@
 {
   "title": "Quiziz 12",
+  "notification": {
+    "enable": true,
+    "title": "Ủng hộ tác giả ❤️",
+    "message": "Trang web được duy trì miễn phí. Nếu bạn thấy hữu ích, có thể ủng hộ mình một cốc cafe qua mã QR bên dưới nhé!",
+    "image": "https://url-anh-qr-code-cua-ban.jpg"
+  },
   "subjects": [
     {
-      "name": "Sử",
+      "name": "Địa",
       "icon": "ph-scroll",
       "theme": "orange",
       "description": "",
@@ -13,7 +19,7 @@
       ]
     },
     {
-      "name": "Địa",
+      "name": "Sử",
       "icon": "ph-globe-hemisphere-east",
       "theme": "green",
       "description": "",
