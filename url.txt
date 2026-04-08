@@ -8,7 +8,7 @@
   },
   "subjects": [
     {
-      "name": "Sử ",
+      "name": "Sử 12",
       "icon": "ph-scroll",
       "theme": "orange",
       "description": "",
@@ -19,7 +19,47 @@
       ]
     },
     {
-      "name": "Địa ",
+      "name": "Địa 12",
+      "icon": "ph-globe-hemisphere-east",
+      "theme": "green",
+      "description": "",
+      "links": [
+        { "label": "TN", "url": "" },
+        { "label": "Đúng/Sai", "url": "" }
+      ]
+    },
+    {
+      "name": "Sử 11",
+      "icon": "ph-scroll",
+      "theme": "green",
+      "description": "",
+      "links": [
+        { "label": "TN", "url": "" },
+        { "label": "Đúng/Sai", "url": "" }
+      ]
+    },
+    {
+      "name": "Địa 11",
+      "icon": "ph-globe-hemisphere-east",
+      "theme": "green",
+      "description": "",
+      "links": [
+        { "label": "TN", "url": "" },
+        { "label": "Đúng/Sai", "url": "" }
+      ]
+    },
+    {
+      "name": "Sử 10",
+      "icon": "ph-scroll",
+      "theme": "green",
+      "description": "",
+      "links": [
+        { "label": "TN", "url": "" },
+        { "label": "Đúng/Sai", "url": "" }
+      ]
+    },
+    {
+      "name": "Địa 10",
       "icon": "ph-globe-hemisphere-east",
       "theme": "green",
       "description": "",
