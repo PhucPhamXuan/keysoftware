@@ -1,0 +1,16 @@
+{
+  "title": "Cổng Ôn Tập Lớp 12",
+  "subjects": [
+    {
+      "name": "Lịch Sử 12",
+      "icon": "ph-scroll",
+      "theme": "orange",
+      "description": "Ôn tập kiến thức Lịch Sử.",
+      "links": [
+        { "label": "Chủ đề 1: Lịch sử thế giới", "url": "https://quizizz.com/..." },
+        { "label": "Chủ đề 3: Lịch sử Việt Nam", "url": "https://quizizz.com/..." },
+        { "label": "Trắc nghiệm Đúng/Sai", "url": "https://quizizz.com/..." }
+      ]
+    }
+  ]
+}
