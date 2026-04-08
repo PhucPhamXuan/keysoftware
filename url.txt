@@ -4,7 +4,7 @@
     "enable": true,
     "title": "Ủng hộ tác giả ❤️",
     "message": "Trang web được duy trì miễn phí. Nếu bạn thấy hữu ích, có thể ủng hộ mình một cốc cafe qua mã QR bên dưới nhé!",
-    "image": "https://s3.myvtc.vn/vtcpay-shared/Landing1400/QRImage/UNG%20HO%20TRE%20EM%20KHUYET%20TAT_VTC82200000015_970426.png"
+    "image": "https://i.ibb.co/rR1prWvM/image.png"
   },
   "subjects": [
     {
