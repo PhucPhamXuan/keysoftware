@@ -10,7 +10,7 @@
     {
       "name": "Sử 12",
       "icon": "ph-scroll",
-      "theme": "orange",
+      "theme": "red",
       "description": "",
       "links": [
         { "label": "CĐ 1,2", "url": "https://wayground.com/join?gc=41477630" },
@@ -21,7 +21,7 @@
     {
       "name": "Địa 12",
       "icon": "ph-globe-hemisphere-east",
-      "theme": "green",
+      "theme": "red",
       "description": "",
       "links": [
         { "label": "TN", "url": "" },
@@ -31,7 +31,7 @@
     {
       "name": "Sử 11",
       "icon": "ph-scroll",
-      "theme": "green",
+      "theme": "yellow",
       "description": "",
       "links": [
         { "label": "TN", "url": "" },
@@ -41,7 +41,7 @@
     {
       "name": "Địa 11",
       "icon": "ph-globe-hemisphere-east",
-      "theme": "green",
+      "theme": "yellow",
       "description": "",
       "links": [
         { "label": "TN", "url": "" },
