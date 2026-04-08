@@ -8,7 +8,7 @@
   },
   "subjects": [
     {
-      "name": "Sử",
+      "name": "Sử ",
       "icon": "ph-scroll",
       "theme": "orange",
       "description": "",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "name": "Địa",
+      "name": "Địa ",
       "icon": "ph-globe-hemisphere-east",
       "theme": "green",
       "description": "",
