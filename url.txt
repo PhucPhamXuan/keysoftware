@@ -1,14 +1,24 @@
 {
-  "title": "Cổng Ôn Tập Lớp 12",
+  "title": "Quiziz 12",
   "subjects": [
     {
-      "name": "Lịch Sử 12",
+      "name": "Địa",
       "icon": "ph-scroll",
       "theme": "orange",
-      "description": "Ôn tập kiến thức Lịch Sử.",
+      "description": "",
       "links": [
-        { "label": "CĐ 1,2", "url": "" },
-        { "label": "CĐ 3", "url": "" },
+        { "label": "CĐ 1,2", "url": "https://wayground.com/join?gc=41477630" },
+        { "label": "CĐ 3", "url": "https://wayground.com/join?gc=63148030" },
+        { "label": "Đúng/Sai", "url": "https://wayground.com/join?gc=44871678" }
+      ]
+    },
+    {
+      "name": "Sử",
+      "icon": "ph-globe-hemisphere-east",
+      "theme": "green",
+      "description": "",
+      "links": [
+        { "label": "TN", "url": "" },
         { "label": "Đúng/Sai", "url": "" }
       ]
     }
