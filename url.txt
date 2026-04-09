@@ -8,7 +8,7 @@
   },
   "subjects": [
     {
-      "name": "Sử 12",
+      "name": "Sử 12 KT cuối kì",
       "icon": "ph-scroll",
       "theme": "red",
       "description": "",
@@ -19,13 +19,12 @@
       ]
     },
     {
-      "name": "Địa 12",
+      "name": "Địa 12 KTTX",
       "icon": "ph-globe-hemisphere-east",
       "theme": "red",
       "description": "",
       "links": [
-        { "label": "TN", "url": "" },
-        { "label": "Đúng/Sai", "url": "" }
+        { "label": "TN, Đ/S", "url": "https://wayground.com/join?gc=55081473" },
       ]
     },
     {
