@@ -24,7 +24,7 @@
       "theme": "red",
       "description": "",
       "links": [
-        { "label": "TN, Đ/S", "url": "https://wayground.com/join?gc=55081473" },
+        { "label": "TN, Đ/S", "url": "https://wayground.com/join?gc=55081473" }
       ]
     },
     {
