@@ -1,5 +1,5 @@
 {
-  "title": "Quiziz 12",
+  "title": "Vậy là hết chưa?",
   "notification": {
     "enable": true,
     "title": "Ủng hộ tác giả ❤️",
@@ -8,7 +8,7 @@
   },
   "subjects": [
     {
-      "name": "Sử 12 KT cuối kì",
+      "name": "Sử 12 HK2",
       "icon": "ph-scroll",
       "theme": "red",
       "description": "",
@@ -19,12 +19,12 @@
       ]
     },
     {
-      "name": "Địa 12 KTTX",
+      "name": "Địa 12 HK2",
       "icon": "ph-globe-hemisphere-east",
       "theme": "red",
       "description": "",
       "links": [
-        { "label": "TN, Đ/S", "url": "https://wayground.com/join?gc=55081473" }
+        { "label": "TN", "url": "" }
       ]
     },
     {
