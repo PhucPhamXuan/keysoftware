@@ -1,5 +1,5 @@
 {
-  "title": "Vậy là hết chưa?",
+  "title": "Tới đây thôi nhỉ.",
   "notification": {
     "enable": true,
     "title": "Ủng hộ tác giả ❤️",
