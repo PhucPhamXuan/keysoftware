@@ -1,9 +1,9 @@
 {
-  "title": "Tới đây thôi nhỉ.",
+  "title": "Quizz",
   "notification": {
     "enable": true,
-    "title": "Ủng hộ tác giả ❤️",
-    "message": "Trang web được duy trì miễn phí. Nếu bạn thấy hữu ích, có thể ủng hộ mình một cốc cafe qua mã QR bên dưới nhé!",
+    "title": "",
+    "message": "",
     "image": "https://i.ibb.co/rR1prWvM/image.png"
   },
   "subjects": [
