@@ -3,8 +3,8 @@
   "notification": {
     "enable": true,
     "title": "",
-    "message": "",
-    "image": "https://i.ibb.co/rR1prWvM/image.png"
+    "message": "Hãy cố gắng khi đối thủ của bạn còn đang ngủ",
+    "image": "https://cdn2.fptshop.com.vn/unsafe/2023_10_30_638342797769781326_y-nghia-co-4-la-5.jpg"
   },
   "subjects": [
     {
